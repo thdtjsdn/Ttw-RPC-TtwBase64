@@ -1,0 +1,3 @@
+git status
+
+cmd /k
